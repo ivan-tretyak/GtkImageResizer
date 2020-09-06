@@ -1,7 +1,0 @@
-# ninja log v5
-2	15	1599420701815465350	src/imageresizer.gresource	9621a82bcb59cb17
-0	358	1599420702116465337	data/com.github.ivantretyak.ImageResizer.desktop	edb706d93501961e
-0	364	1599420702126465337	data/com.github.ivantretyak.ImageResizer.appdata.xml	db2bb146840daa8f
-0	668	0	meson-install	9bd7faa9472bf40f
-0	840	0	meson-install	9bd7faa9472bf40f
-0	828	0	meson-install	9bd7faa9472bf40f
