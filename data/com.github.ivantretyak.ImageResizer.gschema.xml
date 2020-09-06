@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="imageresizer">
+	<schema id="com.github.ivantretyak.ImageResizer" path="/com/github/ivantretyak/ImageResizer/">
+	</schema>
+</schemalist>

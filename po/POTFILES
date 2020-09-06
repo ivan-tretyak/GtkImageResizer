@@ -1,0 +1,7 @@
+data/com.github.ivantretyak.ImageResizer.desktop.in
+data/com.github.ivantretyak.ImageResizer.appdata.xml.in
+data/com.github.ivantretyak.ImageResizer.gschema.xml
+src/window.ui
+src/main.py
+src/window.py
+
